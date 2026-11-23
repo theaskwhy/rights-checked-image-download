@@ -1,0 +1,14 @@
+{
+  "name": "rights-checked-image-download",
+  "owner": {
+    "name": "The Ask Why Company",
+    "url": "https://github.com/theaskwhy"
+  },
+  "plugins": [
+    {
+      "name": "rights-checked-image-download",
+      "source": "./",
+      "description": "Safely retrieve a small, bounded set of images from a specific public URL when official image sources cannot provide them. Creates source manifests; downloads remain uncleared until a separate rights review."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "rights-checked-image-download",
+  "description": "Safely retrieve a small, bounded set of images from a specific public URL when official image sources cannot provide them. Creates source manifests; downloads remain uncleared until a separate rights review.",
+  "version": "1.0.0",
+  "author": {
+    "name": "The Ask Why Company"
+  },
+  "license": "MIT"
+}
